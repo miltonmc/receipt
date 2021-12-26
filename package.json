@@ -1,0 +1,17 @@
+{
+  "name": "receipt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Milton Castro <milton.castro@inovant.com.br> (http://inovant.com.br)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "xml2js": "^0.4.19"
+  }
+}
